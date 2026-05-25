@@ -44,6 +44,17 @@ Copilot adoption is growing quickly. Teams are productive, but they are also see
 
 ## Get Started
 
+Install and validate the demo app first:
+
+```powershell
+cd github-copilot-token-optimization-workshop
+npm install
+npm run typecheck
+npm test
+```
+
+The exercises refer to the starter app files in `services/`, `apps/`, `packages/`, `docs/`, `agents/`, `prompts/`, and `skills/`. See [Demo App: Unified Benefits Banking](../DEMO_APP.md) for the full map.
+
 Start here: [Exercise 1 - Understanding Token Consumption](exercise-1.md).
 
 Prefer the terminal? Use [Exercise CLI - Full Workflow from the Command Line](exercise-cli.md).

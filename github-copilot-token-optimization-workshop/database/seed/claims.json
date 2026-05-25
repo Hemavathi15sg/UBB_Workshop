@@ -1,0 +1,9 @@
+[
+  {
+    "claimId": "clm_1001",
+    "customerId": "cust_42",
+    "status": "PENDING_REVIEW",
+    "submittedAt": "2026-05-01T10:30:00Z",
+    "updatedAt": "2026-05-03T14:00:00Z"
+  }
+]

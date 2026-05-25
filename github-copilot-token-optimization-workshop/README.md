@@ -6,6 +6,8 @@ Customer-ready, instructor-led, hands-on workshop package for enterprise enginee
 
 > Looking for the workshop structure similar to the reference repo? Start with [workshop/README.md](workshop/README.md), then follow [workshop/exercise-1.md](workshop/exercise-1.md) through [workshop/exercise-10.md](workshop/exercise-10.md). A consolidated CLI path is available at [workshop/exercise-cli.md](workshop/exercise-cli.md).
 
+> The hands-on starter app is included in this same folder. See [DEMO_APP.md](DEMO_APP.md) for setup commands and the file map used by each exercise.
+
 ### Source Alignment
 
 This workshop is aligned with the GitHub Copilot token optimization guidance at <https://aka.ms/ghcp-tkn-opt>, GitHub Copilot documentation at <https://docs.github.com/en/copilot>, and workshop patterns from the Microsoft GHCP Lab at <https://github.com/microsoft/GHCP-Lab>.
@@ -197,6 +199,7 @@ Participants progressively optimize Copilot usage while working through realisti
 | Deliverable | File |
 | --- | --- |
 | Full workshop document | [README.md](README.md) |
+| Hands-on demo app guide | [DEMO_APP.md](DEMO_APP.md) |
 | Exercise-by-exercise lab guide | [lab-guide.md](lab-guide.md) |
 | Instructor notes | [instructor-guide.md](instructor-guide.md) |
 | Participant handbook | [participant-handbook.md](participant-handbook.md) |

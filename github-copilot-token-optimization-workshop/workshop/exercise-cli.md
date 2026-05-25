@@ -16,11 +16,15 @@ This path consolidates the 10 IDE exercises into a command-line friendly sequenc
 
 ```powershell
 cd github-copilot-token-optimization-workshop
+npm install
+npm run typecheck
+npm test
 code .
 ```
 
 Review:
 
+- `DEMO_APP.md`
 - `sample-prompts.md`
 - `demo-repo-structure.md`
 - `best-practices-cheat-sheet.md`

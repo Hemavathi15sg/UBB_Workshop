@@ -1,0 +1,17 @@
+{
+  "name": "unified-benefits-banking-workshop",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:payments": "vitest run services/payments-api/tests services/payments-api/src",
+    "test:claims": "vitest run services/claims-api/tests services/claims-api/src",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "typescript": "latest",
+    "vitest": "latest"
+  }
+}

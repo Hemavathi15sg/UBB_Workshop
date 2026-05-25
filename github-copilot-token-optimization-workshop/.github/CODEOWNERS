@@ -1,0 +1,5 @@
+services/payments-api/ @contoso/payments
+services/claims-api/ @contoso/claims
+services/identity-api/ @contoso/security
+apps/admin-portal/ @contoso/frontend
+legacy-benefits-engine/ @contoso/modernization
